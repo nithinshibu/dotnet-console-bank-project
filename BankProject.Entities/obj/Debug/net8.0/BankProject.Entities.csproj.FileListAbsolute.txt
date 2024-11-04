@@ -1,0 +1,16 @@
+D:\User Profile\Documents\Learning\Dotnet\DotnetConsoleBankProject\BankProject.Entities\bin\Debug\net8.0\BankProject.Entities.deps.json
+D:\User Profile\Documents\Learning\Dotnet\DotnetConsoleBankProject\BankProject.Entities\bin\Debug\net8.0\BankProject.Entities.dll
+D:\User Profile\Documents\Learning\Dotnet\DotnetConsoleBankProject\BankProject.Entities\bin\Debug\net8.0\BankProject.Entities.pdb
+D:\User Profile\Documents\Learning\Dotnet\DotnetConsoleBankProject\BankProject.Entities\bin\Debug\net8.0\BankProject.Exceptions.dll
+D:\User Profile\Documents\Learning\Dotnet\DotnetConsoleBankProject\BankProject.Entities\bin\Debug\net8.0\BankProject.Exceptions.pdb
+D:\User Profile\Documents\Learning\Dotnet\DotnetConsoleBankProject\BankProject.Entities\obj\Debug\net8.0\BankProject.Entities.csproj.AssemblyReference.cache
+D:\User Profile\Documents\Learning\Dotnet\DotnetConsoleBankProject\BankProject.Entities\obj\Debug\net8.0\BankProject.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\User Profile\Documents\Learning\Dotnet\DotnetConsoleBankProject\BankProject.Entities\obj\Debug\net8.0\BankProject.Entities.AssemblyInfoInputs.cache
+D:\User Profile\Documents\Learning\Dotnet\DotnetConsoleBankProject\BankProject.Entities\obj\Debug\net8.0\BankProject.Entities.AssemblyInfo.cs
+D:\User Profile\Documents\Learning\Dotnet\DotnetConsoleBankProject\BankProject.Entities\obj\Debug\net8.0\BankProject.Entities.csproj.CoreCompileInputs.cache
+D:\User Profile\Documents\Learning\Dotnet\DotnetConsoleBankProject\BankProject.Entities\obj\Debug\net8.0\BankProject.Entities.sourcelink.json
+D:\User Profile\Documents\Learning\Dotnet\DotnetConsoleBankProject\BankProject.Entities\obj\Debug\net8.0\BankProject.Entities.csproj.CopyComplete
+D:\User Profile\Documents\Learning\Dotnet\DotnetConsoleBankProject\BankProject.Entities\obj\Debug\net8.0\BankProject.Entities.dll
+D:\User Profile\Documents\Learning\Dotnet\DotnetConsoleBankProject\BankProject.Entities\obj\Debug\net8.0\refint\BankProject.Entities.dll
+D:\User Profile\Documents\Learning\Dotnet\DotnetConsoleBankProject\BankProject.Entities\obj\Debug\net8.0\BankProject.Entities.pdb
+D:\User Profile\Documents\Learning\Dotnet\DotnetConsoleBankProject\BankProject.Entities\obj\Debug\net8.0\ref\BankProject.Entities.dll

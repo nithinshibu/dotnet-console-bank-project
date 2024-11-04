@@ -1,0 +1,12 @@
+D:\User Profile\Documents\Learning\Dotnet\DotnetConsoleBankProject\BankProject.Configuration\bin\Debug\net8.0\BankProject.Configuration.deps.json
+D:\User Profile\Documents\Learning\Dotnet\DotnetConsoleBankProject\BankProject.Configuration\bin\Debug\net8.0\BankProject.Configuration.dll
+D:\User Profile\Documents\Learning\Dotnet\DotnetConsoleBankProject\BankProject.Configuration\bin\Debug\net8.0\BankProject.Configuration.pdb
+D:\User Profile\Documents\Learning\Dotnet\DotnetConsoleBankProject\BankProject.Configuration\obj\Debug\net8.0\BankProject.Configuration.GeneratedMSBuildEditorConfig.editorconfig
+D:\User Profile\Documents\Learning\Dotnet\DotnetConsoleBankProject\BankProject.Configuration\obj\Debug\net8.0\BankProject.Configuration.AssemblyInfoInputs.cache
+D:\User Profile\Documents\Learning\Dotnet\DotnetConsoleBankProject\BankProject.Configuration\obj\Debug\net8.0\BankProject.Configuration.AssemblyInfo.cs
+D:\User Profile\Documents\Learning\Dotnet\DotnetConsoleBankProject\BankProject.Configuration\obj\Debug\net8.0\BankProject.Configuration.csproj.CoreCompileInputs.cache
+D:\User Profile\Documents\Learning\Dotnet\DotnetConsoleBankProject\BankProject.Configuration\obj\Debug\net8.0\BankProject.Configuration.sourcelink.json
+D:\User Profile\Documents\Learning\Dotnet\DotnetConsoleBankProject\BankProject.Configuration\obj\Debug\net8.0\BankProject.Configuration.dll
+D:\User Profile\Documents\Learning\Dotnet\DotnetConsoleBankProject\BankProject.Configuration\obj\Debug\net8.0\refint\BankProject.Configuration.dll
+D:\User Profile\Documents\Learning\Dotnet\DotnetConsoleBankProject\BankProject.Configuration\obj\Debug\net8.0\BankProject.Configuration.pdb
+D:\User Profile\Documents\Learning\Dotnet\DotnetConsoleBankProject\BankProject.Configuration\obj\Debug\net8.0\ref\BankProject.Configuration.dll

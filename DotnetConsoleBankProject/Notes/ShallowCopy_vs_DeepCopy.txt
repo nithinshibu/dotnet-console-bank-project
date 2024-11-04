@@ -1,0 +1,91 @@
+﻿public class Address
+{
+    public string City { get; set; }
+    public string Country { get; set; }
+}
+
+public class Person
+{
+    public string Name { get; set; }      // Value type (string is immutable)
+    public int Age { get; set; }          // Value type
+    public Address Address { get; set; }  // Reference type
+
+    // Shallow copy method
+    public Person ShallowCopy()
+    {
+        return (Person)this.MemberwiseClone();
+    }
+
+    // Deep copy method
+    public Person DeepCopy()
+    {
+        // Copy the primitive types and create a new Address object for deep copy
+        return new Person
+        {
+            Name = this.Name,
+            Age = this.Age,
+            Address = new Address 
+            {
+                City = this.Address.City,
+                Country = this.Address.Country
+            }
+        };
+    }
+}
+
+
+//Shallow Copy Example
+
+var originalPerson = new Person 
+{
+    Name = "John",
+    Age = 30,
+    Address = new Address 
+    {
+        City = "New York",
+        Country = "USA"
+    }
+};
+
+// Perform a shallow copy
+var shallowCopyPerson = originalPerson.ShallowCopy();
+
+// Change the address of the shallow copy
+shallowCopyPerson.Address.City = "Los Angeles";
+
+// Both original and shallow copy have the same Address instance
+Console.WriteLine(originalPerson.Address.City); // Output: Los Angeles
+Console.WriteLine(shallowCopyPerson.Address.City); // Output: Los Angeles
+
+
+Modifying shallowCopyPerson.Address.City also affects originalPerson.Address.City because they share the same Address instance.
+This is a shallow copy, where the reference types are not duplicated.
+
+
+//Deep Copy Example
+
+var originalPerson = new Person 
+{
+    Name = "John",
+    Age = 30,
+    Address = new Address 
+    {
+        City = "New York",
+        Country = "USA"
+    }
+};
+
+// Perform a deep copy
+var deepCopyPerson = originalPerson.DeepCopy();
+
+// Change the address of the deep copy
+deepCopyPerson.Address.City = "Los Angeles";
+
+// Original and deep copy have separate Address instances
+Console.WriteLine(originalPerson.Address.City); // Output: New York
+Console.WriteLine(deepCopyPerson.Address.City); // Output: Los Angeles
+
+Modifying deepCopyPerson.Address.City does not affect originalPerson.Address.City because each Person object has its own Address instance.
+This is a deep copy, where each reference type within Person is also cloned, creating a fully independent copy.
+
+

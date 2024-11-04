@@ -1,0 +1,12 @@
+D:\User Profile\Documents\Learning\Dotnet\DotnetConsoleBankProject\BankProject.Exceptions\bin\Debug\net8.0\BankProject.Exceptions.deps.json
+D:\User Profile\Documents\Learning\Dotnet\DotnetConsoleBankProject\BankProject.Exceptions\bin\Debug\net8.0\BankProject.Exceptions.dll
+D:\User Profile\Documents\Learning\Dotnet\DotnetConsoleBankProject\BankProject.Exceptions\bin\Debug\net8.0\BankProject.Exceptions.pdb
+D:\User Profile\Documents\Learning\Dotnet\DotnetConsoleBankProject\BankProject.Exceptions\obj\Debug\net8.0\BankProject.Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+D:\User Profile\Documents\Learning\Dotnet\DotnetConsoleBankProject\BankProject.Exceptions\obj\Debug\net8.0\BankProject.Exceptions.AssemblyInfoInputs.cache
+D:\User Profile\Documents\Learning\Dotnet\DotnetConsoleBankProject\BankProject.Exceptions\obj\Debug\net8.0\BankProject.Exceptions.AssemblyInfo.cs
+D:\User Profile\Documents\Learning\Dotnet\DotnetConsoleBankProject\BankProject.Exceptions\obj\Debug\net8.0\BankProject.Exceptions.csproj.CoreCompileInputs.cache
+D:\User Profile\Documents\Learning\Dotnet\DotnetConsoleBankProject\BankProject.Exceptions\obj\Debug\net8.0\BankProject.Exceptions.sourcelink.json
+D:\User Profile\Documents\Learning\Dotnet\DotnetConsoleBankProject\BankProject.Exceptions\obj\Debug\net8.0\BankProject.Exceptions.dll
+D:\User Profile\Documents\Learning\Dotnet\DotnetConsoleBankProject\BankProject.Exceptions\obj\Debug\net8.0\refint\BankProject.Exceptions.dll
+D:\User Profile\Documents\Learning\Dotnet\DotnetConsoleBankProject\BankProject.Exceptions\obj\Debug\net8.0\BankProject.Exceptions.pdb
+D:\User Profile\Documents\Learning\Dotnet\DotnetConsoleBankProject\BankProject.Exceptions\obj\Debug\net8.0\ref\BankProject.Exceptions.dll
