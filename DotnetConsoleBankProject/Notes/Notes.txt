@@ -1,0 +1,10 @@
+﻿Project Structure:-
+
+Presentation Layer (User inputs/outputs,menus)
+Business Logic Layer (Logic,manipulations,calculations,validations)
+Data Access Layer (Interaction with data source)
+
+Exceptions
+Entities (Model classes)
+Configuration
+
